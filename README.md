@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Seo1001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo1001&show_icons=true&theme=shades-of-purple)
+  ![Seo1001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo1001&show_icons=true&theme=midnight-purple)
 
   <h3>I am learning.</h3>
   	
