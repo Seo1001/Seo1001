@@ -2,7 +2,11 @@
   
   ![Seo1001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo1001&show_icons=true&theme=midnight-purple)
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seo1001&theme=midnight-purple&layout=compact)](https://github.com/seo1001/seo1001)
+  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seo1001&repo=Seo1001&theme=midnight-purple)](https://github.com/Seo1001/Seo1001)
+  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Seo1001&theme=midnight-purple)](https://github.com/Seo1001/Seo1001)
   
   <h3>I am learning.</h3>
   	
