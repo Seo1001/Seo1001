@@ -2,7 +2,7 @@
   
   ![Seo1001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo1001&show_icons=true&theme=midnight-purple)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo1001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo1001&layout=compact)](https://github.com/Seo1001/Seo1001)
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seo1001&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
